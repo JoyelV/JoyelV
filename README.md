@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me  
-👋 Hi! I'm Joyel Varghese, a passionate MERN stack developer with expertise in building scalable, real-world web applications.  
+👋 Hi! I'm Joyel Varghese, a passionate MERN stack developer with expertise in building scalable, real-world web applications. Worked with individual clients to build scalable web apps. Currently seeking full-time opportunities in high-impact teams. 
 🛠️ **Expertise**: Full-Stack Development, REST APIs, Real-Time Systems, and DSA  
 🚀 **Mission**: Crafting innovative, efficient, and user-centric solutions to complex challenges  
 🌱 **Currently Exploring**: React Native, WebRTC,DevOps,Microservices  
