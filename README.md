@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FF9D&background=000000¢er=true&width=435&lines=CONSOLE%3E%3E_+USER%3AJoyel;FULL-STACK+PROTOCOLS+ACTIVE;%5B%2F%5D+Building+Future..." alt="Cyberpunk Header">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FF9D&background=000000&center=true&width=435&lines=JOYEL+VARGHESE;FULL+STACK+DEVELOPER" alt="Typing SVG">
   </a>
 </div>
+
 
 ---
 
