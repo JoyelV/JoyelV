@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FF9D&background=000000&center=true&width=600&lines=JOYEL+VARGHESE;FULL+STACK+DEVELOPER;INNOVATING+WITH+CODE;OPEN+TO+EXCITING+OPPORTUNITIES;LET'S+BUILD+SOMETHING+GREAT!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=500&color=00FF9D&background=000000&center=true&width=600&lines=JOYEL+VARGHESE;FULL+STACK+DEVELOPER;INNOVATING+WITH+CODE;OPEN+TO+FULL TIME+WORK;LET'S+BUILD+SOMETHING+GREAT!" alt="Typing SVG">
   </a>
 </div>
 
@@ -10,7 +10,7 @@
 👋 Hi! I'm Joyel Varghese, a passionate MERN stack developer with expertise in building scalable, real-world web applications. Worked with individual clients to build scalable web apps. Currently seeking full-time opportunities in high-impact teams. 
 🛠️ **Expertise**: Full-Stack Development, REST APIs, Real-Time Systems, and DSA  
 🚀 **Mission**: Crafting innovative, efficient, and user-centric solutions to complex challenges  
-🌱 **Currently Exploring**: React Native, WebRTC,DevOps,Microservices  
+🌱 **Currently Exploring**: React Native,DevOps,Microservices  
 
 ---
 
@@ -22,40 +22,45 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
-### 💻 Key Projects  
-- **TutorG – E-Learning Platform** (Nov 2024 – Jan 2025)  
-  Built a full-stack e-learning platform using MERN stack, TypeScript, and Tailwind CSS. Implemented JWT-based authentication, real-time chat with Socket.io, video calling via WebRTC, and secure payments with Stripe. Integrated Cloudinary for multimedia and Nodemailer for OTP verification.  
-  *Technologies*: Node.js, Express.js, MongoDB, React, TypeScript, Socket.io, Stripe, Cloudinary  
+💻 Key Projects
 
-- **Moment – E-Commerce Website** (May 2024 – Jun 2024)  
-  Developed a scalable e-commerce platform with Node.js, Express.js, and MongoDB. Featured product listing, cart, wishlist, and coupon systems, with Razorpay for payments and Multer for image uploads. Deployed on AWS EC2 with Nginx and PM2 for scalability.  
-  *Technologies*: Node.js, Express.js, MongoDB, Bootstrap, Razorpay, AWS EC2, Nginx  
+TutorG – E-Learning Platform (Nov 2024 – Jan 2025)
+Full-featured MERN stack learning platform with JWT authentication, real-time chat (Socket.io), video calling (WebRTC), multimedia management (Cloudinary), and Stripe payments.
+Tech: Node.js, Express.js, MongoDB, React, TypeScript, Tailwind CSS, Socket.io, Stripe
 
-- **QR-Bridge Application** (Jul 2024 – Present)  
-  Designed a responsive frontend for a QR-based item registration and recovery platform using React.js and Tailwind CSS. Collaborated with a Python Django backend team to enable unique QR code generation and user notifications.  
-  *Technologies*: React, Tailwind CSS, React Router DOM  
+Moment – E-Commerce Website (May 2024 – Jun 2024)
+Scalable e-commerce platform with product listing, cart, wishlist, checkout, coupon system, and Razorpay payments. Deployed on AWS EC2 with Nginx and PM2.
+Tech: Node.js, Express.js, MongoDB, Bootstrap, Razorpay, AWS
 
-- **Project Bidding Platform**  
-  Created a full-stack bidding platform with Next.js, PostgreSQL, and Prisma. Built secure REST APIs with JWT-based role access control and deployed on Heroku and Vercel for seamless real-time updates.  
-  *Technologies*: Next.js, PostgreSQL, Prisma, Node.js, Express.js, Heroku, Vercel  
+QR-Bridge Application (Jul 2024 – Present)
+QR-based item registration and recovery platform with responsive frontend. Integrated with Django backend for unique QR code generation and user notifications.
+Tech: React.js, Tailwind CSS, React Router
+
+Payroll & Site Management System
+Site Wage Wizard Full-Stack Payroll & Site Management System Automate salary calculations, generate PDF payslips, and manage construction site workers — all in one clean dashboard.
+Tech: React.js, MongoDB,TailwindCSS, Node.js, Express.js
+
+Corso – Training Website
+Responsive, content-rich training platform with Bootstrap, SCSS, sticky navbar, carousels, and registration forms.
+Tech: HTML, SCSS, JavaScript, Bootstrap
 
 ---
 
 ### 🛠️ Experience  
-**Freelance Developer – Various Projects** (Jul 2024 – Present)  
-- Developed scalable web applications, focusing on responsive UI and secure backend systems.  
-- Collaborated with cross-functional teams to integrate frontend and backend functionalities.  
 
-**Estimation Engineer – WALCO MIDDLE EAST, Qatar** (Jan 2019 – Dec 2023)  
-- Managed project cost estimation, tender preparation, and sales activities, honing analytical and problem-solving skills.  
+Frontend Developer – Authority Entrepreneurs Ltd, Hyderabad (Jul 2025 – Oct 2025)
+Developed responsive UIs with React, Bootstrap, and CSS.
+Built modular, reusable components and integrated REST APIs.
+Freelance Developer – Various Projects (Jul 2024 – Present)
+Worked on QR-Bridge, TutorG, and other full-stack web applications.
+Estimation Engineer – WALCO MIDDLE EAST, Qatar (Jan 2019 – Dec 2023)
+Managed cost estimation, tender preparation, and sales activities, strengthening analytical and problem-solving skills.
 
 ---
 
@@ -63,15 +68,6 @@
 - **MERN Stack Development** – Brototype, Kochi (Jul 2024 – May 2025)  
 - **BTech, Mechanical Engineering** – CUSAT (Jun 2013 – May 2017)  
 - **Full Stack Web Development (Online Certification)** (Jan 2024 – Dec 2024)  
-
----
-
-### 📈 GitHub Analytics  
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoyelV&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelV&theme=radical">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelV&layout=compact&theme=radical&langs_count=8&hide=html,css">
-</div>
 
 ---
 
