@@ -67,11 +67,6 @@ Managed cost estimation, tender preparation, and sales activities, strengthening
 
 ---
 
-📈 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoyelV&show_icons=true&theme=radical&count_private=true&include_all_commits=true"> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelV&theme=radical"> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelV&layout=compact&theme=radical&langs_count=8&hide=html,css"> </div>
-
----
-
 ### 🌐 Visitor Counter  
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJoyelV&countColor=%234A90E2)
 
