@@ -54,11 +54,13 @@ Tech: HTML, SCSS, JavaScript, Bootstrap
 
 ### 🛠️ Experience  
 
+Freelance Developer – Various Projects (Nov 2025 – Present)
+Worked on QR-Bridge, Payroll & Site Management System, and Bon Marine Asia full-stack web applications.
+
 Frontend Developer – Authority Entrepreneurs Ltd, Hyderabad (Jul 2025 – Oct 2025)
 Developed responsive UIs with React, Bootstrap, and CSS.
 Built modular, reusable components and integrated REST APIs.
-Freelance Developer – Various Projects (Jul 2024 – Present)
-Worked on QR-Bridge, TutorG, and other full-stack web applications.
+
 Estimation Engineer – WALCO MIDDLE EAST, Qatar (Jan 2019 – Dec 2023)
 Managed cost estimation, tender preparation, and sales activities, strengthening analytical and problem-solving skills.
 
