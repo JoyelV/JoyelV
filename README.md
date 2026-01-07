@@ -26,6 +26,10 @@
 
 💻 Key Projects
 
+Payroll & Site Management System (Nov 2025 - Dec 2025)
+Site Wage Wizard Full-Stack Payroll & Site Management System Automate salary calculations, generate PDF payslips, and manage construction site workers — all in one clean dashboard.
+Tech: React.js, MongoDB,TailwindCSS, Node.js, Express.js
+
 TutorG – E-Learning Platform (Nov 2024 – Jan 2025)
 Full-featured MERN stack learning platform with JWT authentication, real-time chat (Socket.io), video calling (WebRTC), multimedia management (Cloudinary), and Stripe payments.
 Tech: Node.js, Express.js, MongoDB, React, TypeScript, Tailwind CSS, Socket.io, Stripe
@@ -34,15 +38,15 @@ Moment – E-Commerce Website (May 2024 – Jun 2024)
 Scalable e-commerce platform with product listing, cart, wishlist, checkout, coupon system, and Razorpay payments. Deployed on AWS EC2 with Nginx and PM2.
 Tech: Node.js, Express.js, MongoDB, Bootstrap, Razorpay, AWS
 
-QR-Bridge Application (Jul 2024 – Present)
+QR-Bridge Application (March 2025 – April 2025)
 QR-based item registration and recovery platform with responsive frontend. Integrated with Django backend for unique QR code generation and user notifications.
 Tech: React.js, Tailwind CSS, React Router
 
-Payroll & Site Management System
-Site Wage Wizard Full-Stack Payroll & Site Management System Automate salary calculations, generate PDF payslips, and manage construction site workers — all in one clean dashboard.
-Tech: React.js, MongoDB,TailwindCSS, Node.js, Express.js
+DoctorWho Application (Oct 2025 - Nov 2025)
+DoctorWho is a modern, responsive doctor appointment booking web app built with React, React Router, Tailwind CSS, and Context API, enabling users to browse doctors by specialty, book time-slot–based appointments, manage profiles, and view bookings with a clean, mobile-first UI.
+Tech: React, TailwindCSS, Nodejs, Expressjs, MongoDB
 
-Corso – Training Website
+Corso – Training Website (May 2025)
 Responsive, content-rich training platform with Bootstrap, SCSS, sticky navbar, carousels, and registration forms.
 Tech: HTML, SCSS, JavaScript, Bootstrap
 
