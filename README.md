@@ -73,9 +73,6 @@ Managed cost estimation, tender preparation, and sales activities, strengthening
 
 ---
 
-### 🌐 Visitor Counter  
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJoyelV&countColor=%234A90E2)
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
