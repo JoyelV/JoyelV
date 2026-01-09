@@ -70,7 +70,7 @@ Managed cost estimation, tender preparation, and sales activities, strengthening
 ### 🎓 Education  
 - **MERN Stack Development** – Brototype, Kochi (Jul 2024 – May 2025)  
 - **BTech, Mechanical Engineering** – CUSAT (Jun 2013 – May 2017)  
-- **Full Stack Web Development (Online Certification)** (Jan 2024 – Dec 2024)  
+- **Full Stack Web Development (Udemy Certification)** (Jan 2024 – Dec 2024)  
 
 ---
 
