@@ -41,63 +41,34 @@ Git • AWS EC2 • Nginx • PM2
 
 Full-stack workforce management system for construction sites.
 
-Features
+Features:- salary automation , PDF payslip generation, worker attendance tracking
 
-salary automation
-
-PDF payslip generation
-
-worker attendance tracking
-
-Tech
-
-React • Node.js • Express • MongoDB • Tailwind
+Tech:- React • Node.js • Express • MongoDB • Tailwind
 
 🎓 TutorG – E-Learning Platform
 
 Multi-role learning platform with course management and real-time features.
 
-Features
+Features:- JWT authentication, video calling (WebRTC), real-time chat using Socket.io, Stripe payment integration
 
-JWT authentication
-
-video calling (WebRTC)
-
-real-time chat using Socket.io
-
-Stripe payment integration
-
-Tech
-
-React • TypeScript • Node.js • Express • MongoDB
+Tech:- React • TypeScript • Node.js • Express • MongoDB
 
 🛒 Moment – E-Commerce Platform
 
 Production-style commerce system deployed on AWS.
 
-Features
+Features:- cart & wishlist, Razorpay payment integration, coupon system, admin product management
 
-cart & wishlist
-
-Razorpay payment integration
-
-coupon system
-
-admin product management
-
-Tech
-
-Node.js • Express • MongoDB • AWS EC2 • Nginx
-
+Tech:- Node.js • Express • MongoDB • AWS EC2 • Nginx
 
 ---
 
 ### 🛠️ Experience  
 
-Freelance Developer – Various Projects (Nov 2025 – Present)
+MERN Stack Developer – Various Projects (Nov 2025 – Present)
 Worked on QR-Bridge, Payroll & Site Management System, and Bon Marine Asia full-stack web applications.
 
-Frontend Developer – Authority Entrepreneurs Ltd, Hyderabad (Jul 2025 – Oct 2025)
+React Developer – Authority Entrepreneurs Ltd, Hyderabad (Jul 2025 – Oct 2025)
 Developed responsive UIs with React, Bootstrap, and CSS.
 Built modular, reusable components and integrated REST APIs.
 
