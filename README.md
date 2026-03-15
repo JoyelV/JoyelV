@@ -25,13 +25,13 @@ Open to **Backend / Full-Stack Developer roles**.
 ---
 
 ### Backend Skills
+• REST API Design  
+• Authentication & Authorization (JWT)  
+• Real-time systems (WebSockets)  
+• Cloud deployment (AWS EC2)  
+• Database modeling (MongoDB / PostgreSQL)  
+• Clean Architecture & Repository Pattern
 
-REST API Design  
-Authentication & Authorization (JWT)  
-Real-time systems (WebSockets)  
-Cloud deployment (AWS EC2)  
-Database modeling (MongoDB / PostgreSQL)  
-Clean Architecture & Repository Pattern
 ---
 
 # Key Projects
