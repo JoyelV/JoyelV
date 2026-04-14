@@ -8,19 +8,21 @@ Hi, I'm **Joyel Varghese** 👋
 
 Backend-focused **MERN stack developer** passionate about building **scalable APIs, real-time systems, and production-ready web applications**.
 
-**Tech Stack**
+---
 
-Node.js • Express.js • MongoDB • PostgreSQL • React • Next.js • AWS • Tailwind CSS
-
-**Tools**
-
-Git • AWS EC2 • Nginx • PM2
-
-**Currently Exploring**
-
-System Design • Microservices • DevOps
-
-Open to **Backend / Full-Stack Developer roles**.
+### 🛠️ Tech Stack  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ---
 
@@ -175,6 +177,17 @@ Jun 2013 – May 2017
 **Full Stack Web Development (Certification)**
 Udemy
 Jan 2024 – Dec 2024
+
+---
+
+---
+
+### 📈 GitHub Analytics  
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JoyelV&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JoyelV&theme=radical">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoyelV&layout=compact&theme=radical&langs_count=8&hide=html,css">
+</div>
 
 ---
 
